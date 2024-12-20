@@ -11,7 +11,7 @@ function Projects() {
           {/* Project 1 */}
           <div className="col-md-4 mb-4">
             <div className="card project-card">
-              <img src="./src/assets/images/SeatingConvocation.jpeg" className="card-img-top" alt="Project 1" />
+              <img src="./images/SeatingConvocation.jpeg" className="card-img-top" alt="Project 1" />
               <div className="card-body">
                 <h5 className="card-title">Project 1</h5>
                 <p className="card-text">The project is a web-based application designed to optimize seating arrangements for events, 
@@ -24,7 +24,7 @@ function Projects() {
           
           <div className="col-md-4 mb-4">
             <div className="card project-card">
-              <img src="./src/assets/images/QrCode.jpg" className="card-img-top" alt="Project 2" />
+              <img src="./images/QrCode.jpg" className="card-img-top" alt="Project 2" />
               <div className="card-body">
                 <h5 className="card-title">Project 2</h5>
                 
@@ -36,7 +36,7 @@ function Projects() {
           {/* Project 3 */}
           <div className="col-md-4 mb-4">
             <div className="card project-card">
-              <img src="./src/assets/images/PatientManagementSystem.jpeg" className="card-img-top" alt="Project 3" />
+              <img src="./images/PatientManagementSystem.jpeg" className="card-img-top" alt="Project 3" />
               <div className="card-body">
                 <h5 className="card-title">Project 3</h5>
                 <p className="card-text">A Patient Management System (PMS) is a software solution designed to streamline and organize healthcare operations by managing patient information, appointments, billing, and medical records. It enables healthcare providers to efficiently store, retrieve, and update patient data, ensuring better coordination and communication among medical staff.</p>

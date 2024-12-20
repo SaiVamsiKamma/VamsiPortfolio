@@ -1,8 +1,8 @@
 import React from "react";
 import "bootstrap/dist/css/bootstrap.min.css";
 import "../styles/Hero.css";
-// import heroImage from "../assets/images/Vamsi.jpg";
-import CvPath from "../assets/images/Sai_Vamsi_Resume.pdf";
+// import heroImage from "./images/Vamsi.jpg";
+import CvPath from "./images/Sai_Vamsi_Resume.pdf";
 
 // Importing social media icons
 import { FaFacebook, FaLinkedin, FaGithub, FaInstagram } from "react-icons/fa";
